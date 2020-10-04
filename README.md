@@ -1,6 +1,6 @@
 # k8s-project
 simple k8s project to learn kubernetes
-
+Happy learning!
 
  _   _    _    ____  ______   __
 | | | |  / \  |  _ \|  _ \ \ / /
